@@ -6,9 +6,9 @@ URL scrambler.
 
 ## Description
 
-Scurl make URLs less bot-friendly by :
+Scurl makes URLs less bot-friendly by :
 - encoding them in hexadecimal;
-- optionally encrypting them using an XOR mask based on a linear congruential generator.
+- encrypting them using an XOR mask based on a linear congruential generator.
 
 ## Samples
 
