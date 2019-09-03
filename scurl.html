@@ -1,0 +1,87 @@
+<meta charset="UTF-8">
+<style>
+    #Text
+    {
+        width: 100%;
+    }
+
+    #EncodedText
+    {
+        width: 100%;
+        height: 20vw;
+    }
+
+    #Seed,
+    #Multiplier,
+    #Increment,
+    #Modulus
+    {
+        width: 25%;
+    }
+</style>
+<div>
+    <input id="Text" type="text" placeholder="URL"/>
+</div>
+<div>
+    <textarea id="EncodedText" placeholder="Encoded URL"></textarea>
+</div>
+<div>
+    <input id="Seed" type="text" placeholder="Seed" value="123"/>
+    <input id="Multiplier" type="text" placeholder="Multiplier" value="8121"/>
+    <input id="Increment" type="text" placeholder="Increment" value="28411"/>
+    <input id="Modulus" type="text" placeholder="Modulus" value="134456"/>
+</div>
+<div>
+    <button onclick="Encode( false )">Encode</button>
+    <button onclick="Encode( true )">Encrypt</button>
+</div>
+<script>
+    function Encode(
+        encoded_text_is_encrypted
+        )
+    {
+        var
+            seed,
+            multiplier,
+            increment,
+            modulus,
+            encoded_text,
+            text;
+
+        text = document.getElementById( "Text" ).value;
+        seed = document.getElementById( "Seed" ).value * 1;
+        multiplier = document.getElementById( "Multiplier" ).value * 1;
+        increment = document.getElementById( "Increment" ).value * 1;
+        modulus = document.getElementById( "Modulus" ).value * 1;
+
+        encoded_text = "";
+
+        text.split( "" ).forEach(
+            function ( character )
+            {
+                character_code = character.charCodeAt( 0 );
+
+                if ( encoded_text_is_encrypted
+                     && seed > 0
+                     && multiplier > 0
+                     && increment > 0
+                     && modulus > 0 )
+                {
+                    seed = ( seed * multiplier + increment ) % modulus;
+
+                    character_code ^= ( seed & 255 );
+                }
+
+                encoded_text
+                    += "&#x"
+                       + "0123456789abcdef"[ character_code >> 4 ]
+                       + "0123456789abcdef"[ character_code & 15 ]
+                       + ";";
+            }
+            );
+
+        document.getElementById( "EncodedText" ).value = encoded_text;
+    }
+
+    document.body.innerHTML = document.body.innerHTML.replace( /(<(pre|script|style|textarea)[^]+?<\/\2)|(^|>)\s+|\s+(?=<|$)/g, "$1$3" );
+</script>

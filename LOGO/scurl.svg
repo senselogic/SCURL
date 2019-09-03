@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2809.6606"
+   height="2736.6799"
+   viewBox="0 0 2809.6607 2736.6799"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="scurl.svg"
+   inkscape:export-filename="/home/eric/data/WORK/PROJECT/TOOL/SCURL/LOGO/scurl.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4170"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-69.880182"
+     inkscape:cy="1067.2083"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="100"
+     fit-margin-left="100"
+     fit-margin-right="100"
+     fit-margin-bottom="100"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4149"
+       originx="-180.13736"
+       originy="0.56739773" />
+    <sodipodi:guide
+       position="1037.7198,1720.5504"
+       orientation="0,1"
+       id="guide872"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1379.8626,1784.8361"
+       orientation="1,0"
+       id="guide903"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-180.13736,1683.7506)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.03708267px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#204cd8;fill-opacity:1;stroke:none;stroke-width:1.16975677px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="280.13736"
+       y="952.92938"
+       id="text4177"><tspan
+         sodipodi:role="line"
+         id="tspan4179"
+         x="280.13736"
+         y="952.92938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:914.87298584px;line-height:1.25;font-family:'KenVector Future Thin';-inkscape-font-specification:'KenVector Future Thin, ';letter-spacing:-108.7877655px;fill:#204cd8;fill-opacity:1;stroke-width:1.16975677px">SCURL</tspan></text>
+    <g
+       id="g869"
+       transform="translate(148.57143,-137.14286)">
+      <path
+         style="stroke-width:0.18629822"
+         inkscape:connector-curvature="0"
+         d="m 1064.0931,-1327.7302 c -198.44482,65.5397 -364.32476,122.4911 -369.29892,127.0181 -11.3083,10.3955 -15.81672,26.2122 -24.40507,81.3565 -18.53667,122.49106 -21.23799,333.58557 -4.97416,454.28819 44.30172,337.21847 174.93403,602.54439 397.78395,808.66474 49.2759,45.64306 129.2723,106.67436 187.5837,142.83485 62.3726,38.41469 170.407,92.66473 185.3295,92.66473 16.7295,0 127.0181,-56.50425 193.4707,-98.53312 83.1821,-52.89007 139.2206,-98.08602 216.0686,-174.93404 98.9989,-98.5331248 164.9857,-188.943651 223.2971,-305.11922 99.8745,-198.87335 149.1503,-422.6362 149.1503,-675.75959 0,-123.40394 -16.2638,-285.22254 -31.6334,-314.15464 -2.72,-4.9742 -9.4826,-11.7555 -14.9225,-15.3697 -13.5625,-8.5883 -726.3954,-242.2809 -737.7037,-241.8337 -4.9741,0 -171.3198,53.7843 -369.7461,118.8769 z m 708.3245,84.0764 c 181.2495,59.6713 331.3314,109.8414 333.1385,111.6485 2.2542,2.2542 7.2284,28.9321 11.7554,60.1185 11.3083,81.82215 11.3083,307.82052 0,393.25688 -42.0289,313.26051 -152.3361,546.04014 -347.6139,734.536679 -85.4363,82.716411 -169.5127,142.834841 -282.0555,202.059051 l -51.53,27.12502 -51.5301,-27.12502 C 1271.1264,198.29449 1186.1557,137.72894 1102.0607,55.906759 906.78292,-133.48401 796.94149,-365.81652 754.91262,-676.35708 c -11.30831,-83.62927 -11.30831,-315.06755 0,-395.52972 4.52704,-31.1864 9.48257,-57.8643 11.75541,-60.1185 4.97417,-4.9741 655.88147,-219.2357 667.18977,-219.6828 4.9556,0 157.2916,48.3816 338.5598,108.0343 z"
+         id="path834" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:18.24550438px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#204cd8;fill-opacity:1;stroke:none;stroke-width:1.52045858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1064.7842"
+         y="-198.78493"
+         id="text864"><tspan
+           sodipodi:role="line"
+           id="tspan862"
+           x="1064.7842"
+           y="-198.78493"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1189.15869141px;line-height:1.25;font-family:'KenVector Future Thin';-inkscape-font-specification:'KenVector Future Thin, ';letter-spacing:-141.40315247px;fill:#204cd8;fill-opacity:1;stroke-width:1.52045858px">#</tspan></text>
+    </g>
+  </g>
+</svg>
